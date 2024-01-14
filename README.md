@@ -13,5 +13,5 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[LinkedIn](https://www.linkedin.com/in/spencer-heflin-758795278/)
+[Linkedin](https://www.linkedin.com/in/spencer-heflin-758795278/)
 
