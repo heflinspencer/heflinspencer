@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Detecting abnormal HTTP(S) using unsupervised machine learning](https://github.com/heflinspencer/LABURL)
+  - [Detecting abnormal HTTP(S) using unsupervised machine learning](https://github.com/heflinspencer/Abnormal-HTTP-Detection)
 
 <h2>👨‍💻 Certifications:</h2>
 
