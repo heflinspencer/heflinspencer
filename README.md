@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Finance Projects:</h2>
 
-- [Fixed Income Pricing Engine](https://github.com/heflinspencer/Abnormal-HTTP-Detection)
+- [Fixed Income Pricing Engine](https://github.com/heflinspencer/fixed_income_pricing_engine)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
