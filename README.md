@@ -1,5 +1,9 @@
 <h1>Hi, I'm Spencer! </h1>
 
+<h2>👨‍💻 Finance Projects:</h2>
+
+- [Fixed Income Pricing Engine](https://github.com/heflinspencer/Abnormal-HTTP-Detection)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
